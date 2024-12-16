@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Merhaba, Ben",
+    "subtitle": "Bilgisayar Mühendisi | Full Stack Geliştirici | DevOps Meraklısı",
+    "description": "Angular, .NET ve Flask gibi modern teknolojileri kullanarak ölçeklenebilir full-stack web uygulamaları geliştirme konusunda deneyimliyim."
+  },
+  "cv": {
+    "download": "CV İndir"
+  },
+  "navbar": {
+    "home": "Ana Sayfa",
+    "skills": "Yeteneklerim",
+    "about": "Hakkımda",
+    "projects": "Projeler",
+    "experiences": "Tecrübelerim"
+
+  },
+  "skills": {
+    "title": "Yetenekler ve Uzmanlık",
+    "intro": "Programlama, araçlar ve frameworklerdeki uzmanlığımı sergiliyorum."
+  },
+  "about": {
+    "title": "Hakkımda",
+    "subtitle": "Ben Kimim ve Neler Yapıyorum",
+    "education": {
+      "title": "Eğitim",
+      "description": "Kırıkkale Üniversitesi Bilgisayar Mühendisliği Bölümü mezunuyum. Eğitimim sırasında, Docker, Kubernetes gibi konteyner teknolojileri ve Flask, Django, ASP.NET MVC gibi modern frameworklerle web geliştirme konularına odaklandım."
+    },"personalStatement":{
+      "title":"İlgi Alanlarım",
+      "content":"Tam yığın yazılım geliştirme konusunda uzmanlaşmayı hedefliyorum. Kendimi özellikle kullanıcı deneyimi odaklı projelerde geliştirmeye, modern teknolojileri ve konteyner teknolojilerini (Docker, Kubernetes) yakından takip etmeye adadım. Yazılım geliştirme dışında kişisel projelerle ve teknolojiye olan tutkumun peşinden gidiyorum."
+    },
+    "professionalExperience": {
+      "title": "Tecrübelerim",
+      "entriesI": {
+        "role": "Bilgi Teknolojileri (IT) Uzmanı",
+        "company": "Milli Savunma Üniversitesi",
+        "description": "IT altyapısını yönetmek, teknik destek sağlamak ve güvenlik protokollerini uygulamak, organizasyon içindeki operasyonların sorunsuz bir şekilde devam etmesini sağlamak.",
+        "dateRange": "05/2023 - 05/2024"
+      },
+      "entriesII": {
+        "role": "Yazılım Geliştirme Yardımcı Uzmanı",
+        "company": "Azelir Brevo",
+        "description": "Web sitesi geliştirmeye katkıda bulunmak, iyzico API ile ödeme sistemi entegrasyonları yapmak ve web uygulamalarının yüksek performansını ve ölçeklenebilirliğini sağlamak.",
+        "dateRange": "08/2019 - 02/2020"
+      },
+      "entriesIII": {
+        "role": "Yazılım Geliştirme Stajyeri",
+        "company": "Azelir Brevo",
+        "description": "Flask Framework ile web sitesi geliştirmeye yardımcı oldum ve iyzico API ile ödeme sistemini entegre ettim.",
+        "dateRange": "07/2019 - 08/2019"
+      }
+    },
+    "technicalSkills": {
+      "title": "Teknik Yetenekler",
+      "description": "Teknik uzmanlığım, ASP.NET Core ve Django REST Framework kullanarak backend geliştirme, Angular ve Bootstrap ile frontend geliştirme ve PostgreSQL ve MySQL ile veritabanı yönetimini içeriyor. Ayrıca Docker ve Kubernetes ile konteynerleştirme konusunda DevOps uygulamalarına da hakimim."
+    },
+    "personalAttributes": {
+      "title": "Kişisel Özellikler",
+      "description": "Analitik bir düşünce yapısına sahibim, güçlü zaman yönetimi ve ekip liderliği becerilerim var. Yenilikçi projelere katkıda bulunmaya ve yeteneklerim ve ilgilerim doğrultusunda yeni zorluklarla karşılaşmaya hevesliyim."
+    }
+  }
+}

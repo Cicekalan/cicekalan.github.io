@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "title": "Hi, I'm",
+    "subtitle": "Computer Engineer | Full Stack Developer | DevOps Enthusiast",
+    "description": "Experienced in developing scalable full-stack web applications using modern technologies like Angular, .NET, and Flask."
+  },
+  "cv": {
+    "download": "Download CV"
+  },
+  "navbar": {
+    "home": "Home",
+    "skills": "Skills",
+    "about": "About",
+    "projects": "Projects",
+    "experiences": "Experiences"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "intro": "Showcasing my expertise in programming, tools, and frameworks."
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Who I Am and What I Do",
+    "education": {
+      "title": "Education",
+      "description": "I am a graduate of Kırıkkale University's Computer Engineering Department. During my studies, I focused on container technologies (Docker, Kubernetes) and website development using modern frameworks like Flask, Django, and ASP.NET MVC."
+    },
+    "personalStatement": {
+      "title": "My Interests",
+      "content": "I aim to specialize in full-stack software development, with a strong focus on user experience-driven projects. I dedicate myself to improving through modern technologies and closely following containerization tools like Docker and Kubernetes. Beyond software development, I pursue my passion for technology through personal projects and continuous learning."
+    },
+    "professionalExperience": {
+      "title": "Professional Experience",
+      "entriesI": {
+        
+          "role": "Information Technology (IT) Specialist",
+          "company": "National Defence University",
+          "description": "Managed IT infrastructure, provided technical support, and implemented security protocols to ensure smooth operations within the organization.",
+          "dateRange": "05/2023 - 05/2024"
+
+        },
+        "entriesII": {
+          "role": "Software Development Assistant Specialist",
+          "company": "Azelir Brevo",
+          "description": "Contributed to website development, including payment system integrations using the iyzico API and ensuring high performance and scalability of web applications.",
+          "dateRange": "08/2019 - 02/2020"
+
+        },
+        "entriesIII": {
+          "role": "Software Development Intern",
+          "company": "Azelir Brevo",
+          "description": "Contributed to website development, including payment system integrations using the iyzico API and ensuring high performance and scalability of web applications.",
+          "dateRange": "07/2019 - 08/2019"
+
+        }
+      
+    },
+    "technicalSkills": {
+      "title": "Technical Skills",
+      "description": "My technical expertise includes backend development using ASP.NET Core and Django REST Framework, frontend development with Angular and Bootstrap, and database management with PostgreSQL and MySQL. I am also experienced in DevOps practices, particularly containerization with Docker and Kubernetes."
+    },
+    "personalAttributes": {
+      "title": "Personal Attributes",
+      "description": "I am an analytical thinker with strong time management and team leadership skills. I am eager to contribute to innovative projects and take on new challenges that align with my skills and interests."
+    }
+  }
+}
