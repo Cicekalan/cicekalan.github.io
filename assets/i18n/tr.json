@@ -60,5 +60,8 @@
       "title": "Kişisel Özellikler",
       "description": "Analitik bir düşünce yapısına sahibim, güçlü zaman yönetimi ve ekip liderliği becerilerim var. Yenilikçi projelere katkıda bulunmaya ve yeteneklerim ve ilgilerim doğrultusunda yeni zorluklarla karşılaşmaya hevesliyim."
     }
+  },
+  "projects": {
+    "title": "Projeler"
   }
 }

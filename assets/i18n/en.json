@@ -64,5 +64,8 @@
       "title": "Personal Attributes",
       "description": "I am an analytical thinker with strong time management and team leadership skills. I am eager to contribute to innovative projects and take on new challenges that align with my skills and interests."
     }
+  },
+  "projects": {
+    "title": "Projects"
   }
 }
