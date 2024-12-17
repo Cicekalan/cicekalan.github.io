@@ -1,8 +1,8 @@
 {
   "hero": {
     "title": "Merhaba, Ben",
-    "subtitle": "Bilgisayar Mühendisi | Full Stack Geliştirici | DevOps Meraklısı",
-    "description": "Angular, .NET ve Flask gibi modern teknolojileri kullanarak ölçeklenebilir full-stack web uygulamaları geliştirme konusunda deneyimliyim."
+    "subtitle": "Bilgisayar Mühendisi | Full Stack Devoloper | DevOps Enthusiast",
+    "description": "Modern teknolojiye tutkuyla bağlı bir mühendis olarak, frontend ve backend geliştirme süreçlerini birleştirerek uçtan uca çözümler üretiyorum. Kullanıcı dostu arayüzler ve güçlü altyapılar oluşturarak yazılım projelerini hayata geçiriyorum."
   },
   "cv": {
     "download": "CV İndir"
@@ -17,17 +17,19 @@
   },
   "skills": {
     "title": "Yetenekler ve Uzmanlık",
-    "intro": "Programlama, araçlar ve frameworklerdeki uzmanlığımı sergiliyorum."
+    "intro": " "
   },
   "about": {
     "title": "Hakkımda",
     "subtitle": "Ben Kimim ve Neler Yapıyorum",
     "education": {
       "title": "Eğitim",
-      "description": "Kırıkkale Üniversitesi Bilgisayar Mühendisliği Bölümü mezunuyum. Eğitimim sırasında, Docker, Kubernetes gibi konteyner teknolojileri ve Flask, Django, ASP.NET MVC gibi modern frameworklerle web geliştirme konularına odaklandım."
+      "description": "Kırıkkale Üniversitesi Bilgisayar Mühendisliği Bölümü'nde aldığım eğitim bana algoritma geliştirme ve problem çözme konusundaki yeteneklerimi geliştirme fırsatı sağladı. Nesne yönelimli programlama (OOP) ve veri yapılarına odaklanan çok sayıda proje geliştirdim."
     },"personalStatement":{
       "title":"İlgi Alanlarım",
-      "content":"Tam yığın yazılım geliştirme konusunda uzmanlaşmayı hedefliyorum. Kendimi özellikle kullanıcı deneyimi odaklı projelerde geliştirmeye, modern teknolojileri ve konteyner teknolojilerini (Docker, Kubernetes) yakından takip etmeye adadım. Yazılım geliştirme dışında kişisel projelerle ve teknolojiye olan tutkumun peşinden gidiyorum."
+      "contentI":"Bilgisayar Mühendisliği eğitimimle birlikte web geliştirme, veritabanı yönetimi, frontend teknolojileri ve container teknolojileri gibi alanlara büyük ilgi duymaktayım. Flask, Django, ASP.NET MVC Framework gibi teknolojilerle web uygulamaları geliştiriyor; Angular, HTML5, CSS, JavaScript ve Bootstrap kullanarak modern ve kullanıcı dostu arayüzler oluşturuyorum. T-SQL ve PostgreSQL kullanarak veritabanı yönetimi ve sorgu optimizasyonu sağlıyor; Docker ve Kubernetes ile projelerin taşınabilirliğini ve verimliliğini artırıyorum."
+      ,"contentII":"Sürekli öğrenmeye açık, araştırma yapmayı seven ve analitik düşünme becerisi güçlü bir yazılımcı olarak yeni teknolojilere ve zorlu projelere her zaman hazırım."
+   
     },
     "professionalExperience": {
       "title": "Tecrübelerim",
@@ -40,7 +42,7 @@
       "entriesII": {
         "role": "Yazılım Geliştirme Yardımcı Uzmanı",
         "company": "Azelir Brevo",
-        "description": "Web sitesi geliştirmeye katkıda bulunmak, iyzico API ile ödeme sistemi entegrasyonları yapmak ve web uygulamalarının yüksek performansını ve ölçeklenebilirliğini sağlamak.",
+        "description": "Flask framework ve PostgreSQL kullanarak web sitesi geliştirmeye katkıda bulunmak, iyzico API ile ödeme sistemi entegrasyonları yapmak ve web uygulamalarının yüksek performansını ve ölçeklenebilirliğini sağlamak.",
         "dateRange": "08/2019 - 02/2020"
       },
       "entriesIII": {

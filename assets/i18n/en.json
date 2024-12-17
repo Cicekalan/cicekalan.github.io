@@ -2,7 +2,7 @@
   "hero": {
     "title": "Hi, I'm",
     "subtitle": "Computer Engineer | Full Stack Developer | DevOps Enthusiast",
-    "description": "Experienced in developing scalable full-stack web applications using modern technologies like Angular, .NET, and Flask."
+    "description": "As an engineer with a passion for modern technology, I create end-to-end solutions by combining frontend and backend development processes. I implement software projects by creating user-friendly interfaces and powerful infrastructures."
   },
   "cv": {
     "download": "Download CV"
@@ -23,11 +23,12 @@
     "subtitle": "Who I Am and What I Do",
     "education": {
       "title": "Education",
-      "description": "I am a graduate of Kırıkkale University's Computer Engineering Department. During my studies, I focused on container technologies (Docker, Kubernetes) and website development using modern frameworks like Flask, Django, and ASP.NET MVC."
+      "description": "The education I received from Computer Engineering Department  at Kırıkkale University provided me with the opportunity to enhance my abilities in algorithm development and problem-solving. I had the chance to engage in the creation of numerous projects centered on object-oriented programming (OOP) and data structures."
     },
     "personalStatement": {
       "title": "My Interests",
-      "content": "I aim to specialize in full-stack software development, with a strong focus on user experience-driven projects. I dedicate myself to improving through modern technologies and closely following containerization tools like Docker and Kubernetes. Beyond software development, I pursue my passion for technology through personal projects and continuous learning."
+      "contentI": "As a computer engineer, I have a profound interest in web development, database management, front-end technologies, and container technologies. I develop web applications with technologies such as Flask, Django, and ASP.NET MVC Framework. I create modern and user-friendly interfaces using Angular, HTML5, CSS, JavaScript, and Bootstrap. I provide database management and query optimization using T-SQL and PostgreSQL. I also increase the portability and efficiency of projects with Docker and Kubernetes."
+    ,"contentII":"As a software developer who is open to continuous learning, loves research, and has strong analytical thinking skills, I am always ready for new technologies and challenging projects."
     },
     "professionalExperience": {
       "title": "Professional Experience",
@@ -42,7 +43,7 @@
         "entriesII": {
           "role": "Software Development Assistant Specialist",
           "company": "Azelir Brevo",
-          "description": "Contributed to website development, including payment system integrations using the iyzico API and ensuring high performance and scalability of web applications.",
+          "description": "My contributions to website development include the use of the Flask framework and PostgreSQL, as well as the integration of payment systems with the iyzico API. Additionally, I ensure the high performance and scalability of web applications.",
           "dateRange": "08/2019 - 02/2020"
 
         },
